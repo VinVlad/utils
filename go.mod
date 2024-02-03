@@ -1,3 +1,3 @@
-module github.com/VinVlad/utils/v2
+module github.com/VinVlad/utils/v3
 
 go 1.19
